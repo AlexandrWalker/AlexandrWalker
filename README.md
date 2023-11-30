@@ -7,4 +7,5 @@
 ### Socials:
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=26A5E4)](https://t.me/alexandr_d_walker)
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=0077FF)](https://vk.com/alexandr.d.walker)
-[![FL](https://static.rustore.ru/apk/538026431/content/ICON/0c620238-db7a-44df-8d62-3fd30f8a5753.png)](https://www.fl.ru/users/alexandrsergjob/portfolio/)
+[![FL](<img alt="Static Badge" src="https://img.shields.io/badge/https%3A%2F%2Fstatic.rustore.ru%2Fapk%2F538026431%2Fcontent%2FICON%2F0c620238-db7a-44df-8d62-3fd30f8a5753.png">
+)](https://www.fl.ru/users/alexandrsergjob/portfolio/)
