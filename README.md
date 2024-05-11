@@ -9,5 +9,5 @@
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=0077FF)](https://vk.com/alexandr.d.walker)
 
 ### Freelance:
-[![FL]()](https://www.fl.ru/users/alexandrsergjob/portfolio/)
-[![Kwork]()](https://kwork.ru/user/alexandrserg)
+[FL)](https://www.fl.ru/users/alexandrsergjob/portfolio/)
+[![Kwork]](https://kwork.ru/user/alexandrserg)
